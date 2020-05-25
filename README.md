@@ -1,24 +1,10 @@
-# countdown
+# Countdown Timer
 
-## Project setup
-```
-npm install
-```
+## Desenvolvido com
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+* [Vue.js](https://vuejs.org/)
+* [Tailwind CSS](https://tailwindcss.com/)
 
-### Compiles and minifies for production
-```
-npm run build
-```
+## Referência
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+* [Easiest Way To Create A Timer In JavaScript // Vue Countdown Timer in JavaScript Tutorial 2020 - Program With Erik](https://www.youtube.com/watch?v=Q_fLx2KcoYA)
